@@ -1,0 +1,8 @@
+.blue-text{
+    color: aqua;
+}
+
+.huge{
+    font-size: 10rem;
+    transition: 10s;
+}

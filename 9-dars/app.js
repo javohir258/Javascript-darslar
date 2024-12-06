@@ -12,29 +12,34 @@
 //         console.log('tormoz')
 //     }
 // }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // const document = {
 //     html: {
-//         head: {
+    //         head: {
+        
+    //         }
+    //     }
+    
+    // }
+    document.querySelector('h1').innerText = 'Bye'
 
-//         }
-//     }
-// }
 
-document.querySelector('h1').innerText = 'bye'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
