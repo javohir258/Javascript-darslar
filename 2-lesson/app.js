@@ -1,6 +1,6 @@
-//String-Text
-//Concetenation-Ikki stringni qo'shilishi
-//Concetenation
+// String-Text
+// Concetenation-Ikki stringni qo'shilishi
+// Concetenation
 // let myName = 'Javohir'
 // let mySurname
 // let text = prompt('Matn kiriting')
